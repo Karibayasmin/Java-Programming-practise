@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class JavaOutput FormattingHackerRank {
+public class JavaOutputFormattingHackerRank {
 
     public static void main(String[] args) {
             Scanner sc=new Scanner(System.in);
